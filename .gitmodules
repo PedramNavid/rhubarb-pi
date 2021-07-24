@@ -1,3 +1,0 @@
-[submodule "01-kernel/firmware"]
-	path = 01-kernel/firmware
-	url = git@github.com:raspberrypi/firmware.git
