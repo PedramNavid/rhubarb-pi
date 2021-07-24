@@ -30,3 +30,13 @@ for hardware blocks like codecs and 3D.
 
 ## Firmware Files
 
+Some of the firmware files are downloaded directly from the [raspberrypi
+repo](https://github.com/raspberrypi/firmware/tree/master/boot) as precompiled
+binaries.
+
+To fetch the firmware run,
+
+```
+git submodule init
+git submodule update
+```
